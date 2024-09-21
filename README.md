@@ -3,7 +3,7 @@ About Me<br><br>With my background in Cloud operations, Technical Support and De
 
 In addition to my technical skills, I pride myself on my problem-solving abilities and my capacity to thrive in fast-paced, dynamic environments. I am an effective communicator who can bridge the gap between technical and non-technical stakeholders, ensuring that infrastructure solutions align with business goals.
 
-Please feel free to contact me!
+I look forward to the possibility of discussing how my background and your needs align.
 
 
 ## 🌐 Socials:
