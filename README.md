@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
 # 💫 About Me:
-<br><br>I am a Cloud Operations and DevOps Automation professional with experience in managing cloud infrastructure and automating deployment workflows. My expertise includes:
+<br>I am a Cloud Operations and DevOps Automation professional with experience in managing cloud infrastructure and automating deployment workflows. My expertise includes:
 
 - Cloud platform administration (AWS, Azure, GCP)
 - Scripting and automation using tools like Terraform, Python, and PowerShell
