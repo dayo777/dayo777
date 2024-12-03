@@ -2,16 +2,7 @@
 
 # 💫 About Me:
 <br>
-With my background in Cloud Infrastructure, SaaS Support and DevOps Automation, I am excited about the opportunity to collaborate with your team of experienced professionals to build and maintain reliable, scalable, and efficient solutions.
-
-My dedication to continuous learning and my proactive approach to problem-solving makes me a valuable asset to your organization. I am confident that my drive to excel will significantly benefit your organization. Missing the opportunity to bring on someone as motivated and capable as I am could mean missing out on the chance to cultivate a strong, long-term asset for your Cloud infrastructure team.
-
-In addition to my technical skills, I pride myself on my problem-solving abilities and my capacity to thrive in fast-paced, dynamic environments. I am an effective communicator who can bridge the gap between technical and non-technical stakeholders, ensuring that infrastructure solutions align with business goals.
-
-I look forward to the possibility of discussing how my background and your needs align.
-
-
-Thank you!
+Cloud Infrastructure Engineer with experience in product support and DevOps Automation.
 
 
 ## 🌐 Socials:
