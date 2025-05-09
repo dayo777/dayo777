@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <br>
-Cloud Infrastructure Engineer with a background in product support and DevOps Automation.
+DevOps Engineer Specializing in Cloud Automation and CI/CD.
 
 
 ## 🌐 Socials:
