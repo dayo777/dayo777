@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <br>
-DevOps Engineer Specializing in Cloud Automation and CI/CD.
+I collaborate remotely with diverse teams to design and implement scalable, secure, and automated cloud infrastructure. My work focuses on delivering efficient DevOps solutions, streamlining CI/CD workflows, automating deployments, and building systems that support fast, reliable software delivery.
 
 
 ## 🌐 Socials:
